@@ -15,7 +15,7 @@ Put the file inside shell directory. quote_cleaner.php file includes abstract.ph
 The script can be directly run without any arguments  like
 $ php quote_cleaner.php
 
-If we run without any arguments, it takes default values from code. Default values are 
+If we run without any arguments, it takes default values from code. Default values are  <br>
 limit = 50000 ( delete 50000 records at a time)
 regQuotes = 60 ( in days)
 anonQuotes = 30 ( in days)
